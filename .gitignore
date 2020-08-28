@@ -1,0 +1,44 @@
+bin
+build
+ref
+gen
+target
+lsp-grammar/**
+gradle
+def-antlr4-ref-code
+tpantlr2-code
+dependency-reduced-pom.xml
+
+README.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code or Theia ###
+.vscode/
+.theia
