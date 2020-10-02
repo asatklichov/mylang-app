@@ -42,3 +42,11 @@ out/
 ### VS Code or Theia ###
 .vscode/
 .theia
+/grammars-v4-master/**
+/grammars-v4-master/**
+/ref/**
+grammars-v4-master.zip
+antlr4example-master.zip
+cobol85 - Shortcut.lnk
+antlr-try - Shortcut.lnk
+antlr4example-master - Shortcut.lnk
